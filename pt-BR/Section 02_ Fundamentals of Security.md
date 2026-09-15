@@ -48,16 +48,16 @@ Exemplos:
 Exemplo:
 - Se um usuário assina digitalmente um documento, a assinatura ajuda a provar quem assinou e que o documento não foi alterado.
 
-## Autenticação, Autorização e Auditoria (Accounting)
+## Autenticação, Autorização e Contabilidade/Auditoria (Accounting)
 
 - **Autenticação:** Verifica a identidade.
 - **Autorização:** Determina quais acessos são permitidos.
-- **Contabilidade (Auditoria) (Accounting):** Registra as ações do usuário para logs, auditorias e investigações.
+- **Contabilidade/Auditoria (Accounting):** Registra as ações do usuário para logs, auditorias e investigações.
 
 Exemplo:
 - Fazer login com senha e MFA é autenticação.
 - Acessar apenas as pastas designadas é autorização.
-- Logs do sistema mostrando acesso a arquivos são auditoria (accounting).
+- Logs do sistema mostrando acesso a arquivos é Contabilidade/Auditoria (accounting).
 
 ## Categorias de Controles de Segurança
 
