@@ -52,7 +52,7 @@ Exemplo:
 
 - **Autenticação:** Verifica a identidade.
 - **Autorização:** Determina quais acessos são permitidos.
-- **Auditoria (Accounting):** Registra as ações do usuário para logs, auditorias e investigações.
+- **Contabilidade (Auditoria) (Accounting):** Registra as ações do usuário para logs, auditorias e investigações.
 
 Exemplo:
 - Fazer login com senha e MFA é autenticação.
